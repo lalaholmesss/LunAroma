@@ -3,7 +3,7 @@ import heroBg from "../assets/hero-homepage.png";
 export default function FirstPage() {
   return (
     <div 
-      className="bg-cover bg-center h-[800px] font-[DM_Sans] relative"
+      className="bg-cover bg-center h-[1000px] font-[DM_Sans] relative"
       style={{ backgroundImage: `url(${heroBg})` }}
     >
         <div className="flex flex-col max-w-[480px] absolute px-[80px] top-[280px]">
